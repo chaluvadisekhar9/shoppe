@@ -1,0 +1,37 @@
+body, html{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.myClass{
+  background-color: #00405d;
+}
+.searchBar{
+  height: auto;
+  width: 40%;
+}
+.card{
+  height:400px;
+  width: 300px;
+  margin: 0.5rem;
+}
+.card img{
+  border-radius: 5px;
+}
+.card div{
+  height: 60px;
+  width: 120px;
+  position: relative;
+  left: 13.6rem;
+  bottom: 3.8rem;
+  background: green;
+  border-radius: 4px;
+
+}
+.card div:hover{
+  background: orange;
+  color: white;
+
+}

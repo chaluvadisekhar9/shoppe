@@ -1,0 +1,10 @@
+.listItem{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 0.5rem;
+    margin: left;
+
+}
+.listItem:hover{
+    background: rgb(223, 146, 5);
+}
